@@ -1,83 +1,32 @@
-.portraitImage {
-	border-radius: 50%;
-	width:300px;
-	hight:300px;
-	margin-left: 50px;
-	margin-bottom: 40px;
-	margin-top: -160px;
+.linkList {
+	background-color: lightblue;
+	border-color: beige;
+	border-radius: 10%;
+	position: absolute;
+	width: 10%;
+	height: 20%;
+	margin-left: 2%;
 }
 
-
-
-.title {
-	text-align: center;
-	font-size: 32px;
+.links {
+	font-size: 16px;
+	font-family: 'Kalam', cursive;
 }
 
-.innertext{
+.youTubeVideo {
+	margin-left: 30%;
+	margin-top: 5%;
+}
+
+.text {
 	background-color: slategray;
 	border-radius: 10%;
-	position: absolute;
-	width: 50%;
-	height: 70%;
-	margin-left: 20%;
-}
-
-
-.banner{
-
-	margin-bottom: 0px;
-	margin-left: 100px;
-
-
-}
-.description{
-	margin-left: 400px;
-	margin-top: 50px;
-	font-size: 18px;
-	font-family: "Lucida Handwriting",cursive;
-
-}
-
-.homePageLinks{
-	border-width: 25px 10px 10px 10px;
-	border-style: solid;
-	border-color: beige;
-	border-radius: 10%;
-	margin-bottom: 20px;
-	margin-left: 15px;
-
-}
-
-.familyPhoto{
-	position: absolute;
-	margin-left: 25%;
+	display: block;
+	width: 40%;
+	margin-left: 30%;
+	font-size: 16px;
+	font-family: 'Kalam', cursive;
 	border-width: 10px;
-	border-color: beige;
 	border-style: solid;
-	border-radius: 10%;
+	border-color: slategray;	
 }
-
-.aboutMeBody{
-	background-color: slategray;
-}
-
-.fencingPhoto{
-	position: absolute;
-	margin-left: 25%;
-	margin-top: 15%;
-	border-style: solid;
-	border-color: beige;
-	border-width: 10px;
-	border-radius: 10%;
-}
-
-.aboutMeText{
-	position: absolute;
-	height: 30%;
-	width: 90%;
-	margin-left: 5%;
-	font-family: "Lucida Handwriting",cursive;
-	font-size: 18px;
-}
-
